@@ -7,3 +7,4 @@ require('./7-mind-generate')
 // sayHi('susan')
 // sayHi(names.john)
 // sayHi(names.peter)
+// Hello me
